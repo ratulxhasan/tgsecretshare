@@ -114,7 +114,7 @@ python3 main.py
 
 ## 👤 Maintainer
 
-* [ByteSupreme](https://github.com/ByteSupreme)
+* [Md. Ratul Hasan](https://t.me/itsmeratul)
 
 ---
 
@@ -126,5 +126,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Support & Contributions
 
-* Open an [Issue](https://github.com/ByteSupreme/SecretShare-Bot/issues) for bug reports or help.
-* Submit a [Pull Request](https://github.com/ByteSupreme/SecretShare-Bot/pulls) to contribute.
+* Open an [Issue](https://github.com/ratulxhasan/tgsecretshare/issues) for bug reports or help.
+* Submit a [Pull Request](https://github.com/ratulxhasan/tgsecretshare/pulls) to contribute.
