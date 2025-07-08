@@ -186,7 +186,7 @@ async def process_view_secret_deep_link(client: Client, message: Message):
     # Now updated_share_doc contains the share with incremented view_count
     share = updated_share_doc # Use the latest document
     
-    await message.reply_text("🤫 Secret found! Revealing it momentarily...")
+    await message.reply_text("🤫 secret found!@itsmeratul❤️ Revealing it momentarily...")
     
     try:
         source_chat_id = share["original_chat_id"]
